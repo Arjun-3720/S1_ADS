@@ -1,3 +1,5 @@
+//Circular queue using array
+
 #include <stdio.h>
 #define MAX 5
 void insert(int);
